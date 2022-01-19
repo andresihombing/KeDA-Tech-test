@@ -4,7 +4,7 @@ test('polindrome', () => {
   expect(solution('nababan')).toBe(true);
 });
 
-test('polindrome', () => {
+test('not polindrome', () => {
     expect(solution('sihombing')).toBe(false);
   });
   
